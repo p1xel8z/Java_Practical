@@ -1,0 +1,3 @@
+INFO: User logged in
+WARNING: Low memory
+ERROR: Request failed

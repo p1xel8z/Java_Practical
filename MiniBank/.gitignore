@@ -1,0 +1,24 @@
+# Compiled class files
+bin/
+*.class
+
+# JAR files (keep MiniBank.jar for distribution, ignore others)
+# If you want to exclude MiniBank.jar too, uncomment the next line:
+# *.jar
+
+# Serialized state (regenerated on first run)
+data/accounts.dat
+data/report.txt
+data/logs/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+# Note: .vscode/ is kept intentionally — it sets the correct JDK 21 runtime
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
